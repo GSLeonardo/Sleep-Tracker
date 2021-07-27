@@ -24,6 +24,7 @@ android {
     compileSdkVersion 30
     defaultConfig {
         applicationId "com.example.android.trackmysleepquality"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1
